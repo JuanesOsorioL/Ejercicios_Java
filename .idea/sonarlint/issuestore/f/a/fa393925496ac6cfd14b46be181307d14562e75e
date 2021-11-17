@@ -1,0 +1,12 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ñî¹8ÏÒÇƒÒ/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÖ“Í8ÏÒÇƒÒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÄê8ĞÒÇƒÒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–ğµµøÿÿÿÿ8ĞÒÇƒÒ/
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(¹ßñ„øÿÿÿÿ8ÑÒÇƒÒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–ğµµøÿÿÿÿ8Š¥ÉƒÒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤×¨µÿÿÿÿÿ8„áÊƒÒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÆÿÔùÿÿÿÿ8„áÊƒÒ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãç‹¨ùÿÿÿÿ
