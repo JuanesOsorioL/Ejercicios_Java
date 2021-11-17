@@ -1,7 +1,0 @@
-
-l
-java:S1612"JReplace this lambda with method reference 'Electrodomestico::precioFinal'.(Á‚ÖÕøÿÿÿÿ8÷£²¤Ò/
-d
-java:S1612"GReplace this lambda with method reference 'Electrodomestico::toString'.(¿“ñ8€¤²¤Ò/
-N	java:S106"9Replace this use of System.out or System.err by a logger.(«•³§
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äªá‹

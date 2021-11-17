@@ -1,0 +1,19 @@
+
+g	java:S116	"RRename this field "tÃ­tulo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é©ÈÌ
+l
+java:S1845"VRename field "entregado" to prevent any misunderstanding/clash with field "ENTREGADO".(Ô®£Ñ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïíóÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üºÈÇıÿÿÿÿ
+f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì’—
+i
+java:S1104	"SMake tÃ­tulo a static final constant or non-public and provide accessors if needed.(é©ÈÌ
+t
+java:S1104
+"^Make numeroDeTemporadas a static final constant or non-public and provide accessors if needed.(áßóâ
+k
+java:S1104"UMake entregado a static final constant or non-public and provide accessors if needed.(Ô®£Ñ
+h
+java:S1104"RMake genero a static final constant or non-public and provide accessors if needed.(ôøğ‘
+n
+java:S1104"SMake creador a static final constant or non-public and provide accessors if needed.(¦½£àşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ÈÇÔ

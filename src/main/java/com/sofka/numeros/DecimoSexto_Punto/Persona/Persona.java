@@ -5,9 +5,12 @@ import java.util.Random;
 public class Persona {
 
     private static final int MAYOR=18;
+    private static final int DIVIDIR=23;
     private static final int INICIALIZAR=0;
     private static final char SEXO='H';
-    private static final char[] LETRAS={'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'};
+    private static final char[] LETRAS={'T', 'R', 'W', 'A', 'G', 'M', 'Y',
+            'F', 'P', 'D', 'X', 'B', 'N', 'J', 'Z',
+            'S', 'Q', 'V', 'H', 'L', 'C', 'K', 'E'};
     private static final Random R=new Random();
 
     private String nombre;
@@ -85,11 +88,18 @@ public class Persona {
     }
 
     public void generaDNI(){
-        String letras="";
-        for (int i = 1; i <=8 ; i++) {
-            letras += String.valueOf(LETRAS[R.nextInt(26)]);
-        }
-        DNI=letras;
+        int numeroAleatorio =aleatorio();
+        int numero =numero(numeroAleatorio);
+        DNI=numeroAleatorio+""+LETRAS[numero];
     }
+
+    public int aleatorio(){
+        return  R.nextInt(90000000) + 10000000;
+    }
+
+    public int numero(int numero){
+        return numero%DIVIDIR;
+    }
+
 }
 

@@ -1,0 +1,8 @@
+
+h	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öˆ¡Ûúÿÿÿÿ
+l
+java:S1612"JReplace this lambda with method reference 'Electrodomestico::precioFinal'.(Á‚ÖÕøÿÿÿÿ8íÜ¯ŞÒ/
+d
+java:S1612"GReplace this lambda with method reference 'Electrodomestico::toString'.(¿“ñ8íÜ¯ŞÒ/
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(åÕ×óùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ£çŒ

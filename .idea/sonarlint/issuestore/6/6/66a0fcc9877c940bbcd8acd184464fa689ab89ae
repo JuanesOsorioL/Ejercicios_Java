@@ -1,34 +1,0 @@
-
-b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù“‰
-
-M	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ›
-N	java:S106"9Replace this use of System.out or System.err by a logger.(şîÃ¨
-N	java:S106"9Replace this use of System.out or System.err by a logger.(«˜“‘
-S	java:S106"9Replace this use of System.out or System.err by a logger.(àĞÀ§úÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(îÈãìşÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(À‡ù‰ûÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(—ıúÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÁµÙï
-S	java:S106"9Replace this use of System.out or System.err by a logger.(À‡ù‰ûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ûÇ¡„
-N	java:S106,"9Replace this use of System.out or System.err by a logger.(˜Á„ß
-S	java:S106."9Replace this use of System.out or System.err by a logger.(—ã¨ßúÿÿÿÿ
-S	java:S106/"9Replace this use of System.out or System.err by a logger.(‰„©Úÿÿÿÿÿ
-S	java:S1060"9Replace this use of System.out or System.err by a logger.(øÊ¤Âøÿÿÿÿ
-N	java:S1061"9Replace this use of System.out or System.err by a logger.(ò¤µæ
-S	java:S1063"9Replace this use of System.out or System.err by a logger.(Ğşéêüÿÿÿÿ
-N	java:S1064"9Replace this use of System.out or System.err by a logger.(÷ğï‰
-S	java:S1065"9Replace this use of System.out or System.err by a logger.(ç°²şÿÿÿÿ
-N	java:S1066"9Replace this use of System.out or System.err by a logger.(ò¤µæ
-N	java:S1068"9Replace this use of System.out or System.err by a logger.(¾Ìßâ
-N	java:S1069"9Replace this use of System.out or System.err by a logger.(ôÆ¦æ
-N	java:S106:"9Replace this use of System.out or System.err by a logger.(Áø„ˆ
-N	java:S106;"9Replace this use of System.out or System.err by a logger.(ò¤µæ
-c	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×™ê
-h	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÇæ¤úÿÿÿÿ
-n
-java:S11921"XDefine a constant instead of duplicating this literal "-----------------------" 3 times.(ò¤µæ
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ªôß
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÂÄÿ
-f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğá‹È
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³’‘Ûüÿÿÿÿ

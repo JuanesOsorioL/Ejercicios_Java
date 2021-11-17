@@ -7,6 +7,7 @@ public class Personas {
         Persona primeraPersona;
         Persona segundaPersona;
         Persona terceraPersona;
+
         try {
             System.out.println("Bienvenido al punto numero 16");
             System.out.print("Ingresa tu Nombre: ");
@@ -35,6 +36,10 @@ public class Personas {
             primeraPersona =new Persona(nombre,edad,sexo,peso,altura);
             segundaPersona =new Persona(nombre,edad,sexo);
             terceraPersona =new Persona();
+
+            segundaPersona.setPeso(80);
+            segundaPersona.setAltura(1.78);
+
 
             terceraPersona.setNombre("Carlos");
             terceraPersona.setEdad(55);
@@ -75,6 +80,9 @@ public class Personas {
 
     public String Edad(boolean control){
         return control?"Si es mayor de edad\n":"No eres mayor de edad\n";
+
     }
+
+
 
 }

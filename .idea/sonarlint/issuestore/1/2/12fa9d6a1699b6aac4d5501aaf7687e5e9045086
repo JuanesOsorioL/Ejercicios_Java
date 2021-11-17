@@ -1,9 +1,0 @@
-
-h	java:S116"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšıÿÿÿÿ
-g
-java:S1845"LRename field "sexo" to prevent any misunderstanding/clash with field "SEXO".(ù‘ãøÿÿÿÿ
-f	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¼ğ¸
-k	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¼¾èüÿÿÿÿ
-1
-java:S1643Z"Use a StringBuilder instead.(çëØ'
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê·˜Ñ
